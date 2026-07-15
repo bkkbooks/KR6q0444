@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6q0444/v1
 canonical_location: https://kanripo.org/bkk/KR6q0444/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 一初元禪師語錄
   identifiers:
@@ -21,13 +21,13 @@ editions:
 - short: J
 assets:
   parts:
-  - {seq: 0, filename: KR6q0444_000.yaml, hash: 'sha256:d1a5fa6e9a8386028e2744098a624833006f99b3a173b281449dd2e4626ed56d'}
-  - {seq: 1, filename: KR6q0444_001.yaml, hash: 'sha256:5e70dbde80a7d47c65972223a9db2669126c0727a118c51f0a20c9258132a95e'}
-  - {seq: 2, filename: KR6q0444_002.yaml, hash: 'sha256:637e2c23d7e5cc03470c4dcf3e299112a3b80fda292201ac3effbda00d8d86d7'}
+  - {seq: 0, filename: KR6q0444_000.yaml, hash: 'sha256:87ea3bce8f8adff7bac0f30097e47e7d945ad05317fb61617acd67cd035e148b'}
+  - {seq: 1, filename: KR6q0444_001.yaml, hash: 'sha256:e2c03061a34903dae0def407cb122dfb4fbd758b2c106e1db24013261c5342b0'}
+  - {seq: 2, filename: KR6q0444_002.yaml, hash: 'sha256:0aecd1f6d4a7051b151e7336ea35d24e768761d81bf3f63d4ec3a009180a3823'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0444_000.markers.yaml, hash: 'sha256:869a71efa0ebd9314754d087af6afbdd069fa4b8faecacac3602ad63e45e63e1'}
-  - {seq: 1, role: markers, filename: assets/KR6q0444_001.markers.yaml, hash: 'sha256:8bab4999c9602e3ade5c3c20e02b24bdbff1ccded8fa686e0cd0ceb945e77d96'}
-  - {seq: 2, role: markers, filename: assets/KR6q0444_002.markers.yaml, hash: 'sha256:9fcf2d6eabd838956185c42d552d1fb24c54ef5f3c48d06628146487e308eeb9'}
+  - {seq: 0, role: markers, filename: assets/KR6q0444_000.markers.yaml, hash: 'sha256:6fb9c4a2c8ebb5ecd7e8dbff6eee94b457cb7f6463c40ba94594e03a5f87efcf'}
+  - {seq: 1, role: markers, filename: assets/KR6q0444_001.markers.yaml, hash: 'sha256:1a7a83fab7c0cc2407b0377fe91c2e9f7ae9abffbe12acf319edde6ae9575d47'}
+  - {seq: 2, role: markers, filename: assets/KR6q0444_002.markers.yaml, hash: 'sha256:454b6159b0bf989a789973f0d42e48095c7f25ac2f1abf0a78c536d55a676005'}
 table_of_contents:
 - ref:
     seq: 0
@@ -1569,4 +1569,7 @@ table_of_contents:
   label: 附重建永正禪院碑記
   type: mulu
   level: 1
-hash: sha256:54009a5caa8f0fa805c83ec90e19744d7a01e530b70a53d5415c29798a27e188
+hash: sha256:e794b75fc2587b626c1e5aaab607a7d6b36d61a6de4211297c9530660caf0d0b
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
