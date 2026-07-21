@@ -19,11 +19,11 @@ metadata:
     short: J
 assets:
   parts:
-  - {seq: 0, filename: KR6q0444_000-J.yaml, hash: 'sha256:d1a5fa6e9a8386028e2744098a624833006f99b3a173b281449dd2e4626ed56d'}
+  - {seq: 0, filename: KR6q0444_000-J.yaml, hash: 'sha256:311e77df59da8ad49177f993f58c695e30d4a628e118c84cea4a0934c6fe9efa'}
   - {seq: 1, filename: KR6q0444_001-J.yaml, hash: 'sha256:5e70dbde80a7d47c65972223a9db2669126c0727a118c51f0a20c9258132a95e'}
   - {seq: 2, filename: KR6q0444_002-J.yaml, hash: 'sha256:637e2c23d7e5cc03470c4dcf3e299112a3b80fda292201ac3effbda00d8d86d7'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0444_000-J.markers.yaml, hash: 'sha256:f276d2df16de8f78961f9ebe7b93a7d5e5a701bcebe928fab93573398f840bc6'}
+  - {seq: 0, role: markers, filename: assets/KR6q0444_000-J.markers.yaml, hash: 'sha256:bfdda176214ad78b636926301ae10044d97c5abc2d2fa54c4befd5bb88a26b90'}
   - {seq: 1, role: markers, filename: assets/KR6q0444_001-J.markers.yaml, hash: 'sha256:f4748df24f8a899df459b28a2424c7a692924f60eec1c8913954682444a32485'}
   - {seq: 2, role: markers, filename: assets/KR6q0444_002-J.markers.yaml, hash: 'sha256:93d2b553de2a185b2c42c52c3945e9120f51fbd857fdf8d744beef27e3a64666'}
 table_of_contents:
@@ -31,7 +31,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0444_J_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 序
@@ -41,7 +41,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0444_J_000-mulu-2
     span:
-    - front
+    - body
     - 0
     - 0
   label: 施博序
@@ -51,7 +51,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0444_J_000-mulu-3
     span:
-    - front
+    - body
     - 347
     - 347
   label: 譚貞默序
@@ -61,7 +61,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0444_J_000-mulu-4
     span:
-    - front
+    - body
     - 560
     - 560
   label: 目次
@@ -1567,4 +1567,4 @@ table_of_contents:
   label: 附重建永正禪院碑記
   type: mulu
   level: 1
-hash: sha256:be34192651d562c1037eb134719833ac0c41f2f6fb597da0a28c9cf92d3ce85a
+hash: sha256:17f87cd28da9310dfaea62564823a076864f38c3165d2c01da2e770c1c3e5034
